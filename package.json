@@ -1,0 +1,26 @@
+{
+  "name": "homework26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "devDependencies": {
+    "stylelint": "^16.0.1",
+    "stylelint-config-standard-scss": "^11.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lito3000/HomeWork26.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lito3000/HomeWork26/issues"
+  },
+  "homepage": "https://github.com/Lito3000/HomeWork26#readme"
+}
